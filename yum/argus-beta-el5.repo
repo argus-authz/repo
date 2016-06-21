@@ -1,0 +1,7 @@
+[Argus-beta-EL5]
+name=Argus-beta-EL5
+baseurl=http://argus-authz.github.io/repo/beta/el5/RPMS/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
