@@ -1,0 +1,7 @@
+[Argus-stable-EL6]
+name=Argus-stable-EL6
+baseurl=http://argus-authz.github.io/repo/stable/el6/RPMS/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
