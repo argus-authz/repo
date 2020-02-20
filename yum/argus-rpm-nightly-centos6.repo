@@ -1,0 +1,7 @@
+[argus-rpm-nightly-centos6]
+name=argus-rpm-nightly-centos6
+baseurl=https://repo.cloud.cnaf.infn.it/repository/argus-rpm-nightly/centos6/
+protect=1
+enabled=1
+priority=1
+gpgcheck=0
